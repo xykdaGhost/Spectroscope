@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../../resources/7-200Z9142449E4.jpg</file>
+        <file>../../../resources/screenshot.svg</file>
+        <file>../../../resources/screenshot.jpg</file>
+        <file>resources/screenshot.jpg</file>
+        <file>resources/savewave.jpg</file>
+        <file>resources/run_button.jpg</file>
+        <file>resources/single_button.jpg</file>
+        <file>resources/stop_button.jpg</file>
+        <file>resources/7-200Z9142449E4.jpg</file>
+        <file>resources/screenshot.svg</file>
+        <file>resources/Untitled-1.psd</file>
+        <file>resources/Untitled-2.jpg</file>
+        <file>resources/save.svg</file>
+    </qresource>
+</RCC>
