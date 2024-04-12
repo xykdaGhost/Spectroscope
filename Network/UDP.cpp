@@ -21,7 +21,7 @@ void UDP::InitSocket()
     //初始化socket，设置组播地址
     mUdpSocket = new QUdpSocket;
     mGroupAdress.setAddress("239.2.2.222");
-    mType = 0;
+    //mType = 0;
     if(mType == 0 || mType == 1)
     {
         //绑定本地IP和端口号
