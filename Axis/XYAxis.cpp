@@ -368,7 +368,7 @@ double XYAxis::calcValueSpace(double unitP2V, int pxRefSpace) const
 {
     //尽量为整除
     const double space_ref = unitP2V * pxRefSpace;
-    double space_temp = space_ref;
+    //double space_temp = space_ref;
     if (space_ref > 1)
         space_temp = calcValueSpaceHelper(space_ref, 1);
     else
